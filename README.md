@@ -8,7 +8,7 @@
  </div>
 <br>
  <i> I'm a student,currently pursuing Bachelor's Degree from Pune Institute of Computer Technology.
- I have a keen interest in ML & AI.
+ I have a keen interest in AI & Blockchain.
  I'm open minded person and loves to make new connections with people.
  I’m currently learning Artificial Intelligence.
 </i>
